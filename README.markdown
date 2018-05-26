@@ -27,7 +27,7 @@ browsers.
 The first error will be in koans/AboutExpects.js. Fix the first test and
 refresh the browser. Rinse and repeat until all tests turn green.
 
-The test runner used is [Jasmine](http://pivotal.github.com/jasmine/) with a
+The test runner used is [Jasmine](https://jasmine.github.io/) with a
 customized report viewer.
 
 ### Changelog
